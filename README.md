@@ -1,0 +1,1 @@
+# hash_func_lab2
